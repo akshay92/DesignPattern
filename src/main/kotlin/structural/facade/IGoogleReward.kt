@@ -1,4 +1,4 @@
-package structure.facade
+package structural.facade
 
 interface IGoogleReward {
     fun provideGoogleReward(): Int

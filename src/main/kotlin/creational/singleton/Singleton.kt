@@ -1,4 +1,4 @@
-package crediantial.singleton
+package creational.singleton
 
 class Singleton private constructor() {
 

@@ -1,4 +1,4 @@
-package structure.facade
+package structural.facade
 
 class Reward {
 
